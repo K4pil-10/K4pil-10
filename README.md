@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p style="text-align:center"> 15 years old | Grade 9 student | Love to codes<br>Hi 👋, I'm KAPIL.<br>A passionate student to learning programming and development 💻. I enjoy understanding codes and how it works. I create small projects using HTML, CSS, and JavaScript. I’m continuously improving my skills.🌱.
+<p align="center"> 15 years old | Grade 9 student | Love to codes</p> <p align="center">Hi 👋, I'm KAPIL.</p>A passionate student to learn programming and development 💻. I enjoy understanding codes and how it works. I create small projects using HTML, CSS, and JavaScript. I’m continuously improving my skills.🌱.
 
 
 ## 🌐 Socials:
