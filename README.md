@@ -22,16 +22,10 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=K4pil-10&theme=outrun&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=K4pil-10&theme=outrun&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=K4pil-10&theme=outrun&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</div>
-
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=K4pil-10&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=K4pil-10&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=K4pil-10&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <div align="center">
   
