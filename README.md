@@ -1,10 +1,12 @@
-# 💫 About Me:
-<p align="center">15 years old | Grade 9 Student | Passionate Coder 👨‍💻</p> 
-<p align="center">Hi 👋, I'm <b>KAPIL</b></p>
+<h1 align="center">💫 About Me:</h1>
 
+<h2 align="center">15 years old | Grade 9 Student | Passionate Coder 👨‍💻</h2>
+<h3 align="center">Hi 👋, I'm <b>KAPIL</b></h3>
+
+<h3>
 🎯 A passionate student learning programming and web development. I enjoy understanding how code works and creating small projects with HTML, CSS, and JavaScript. Constantly learning and improving my skills every day!
+</h3>
 
----
 
 ## 🌐 Connect With Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/lucky.kapil.948)
@@ -26,11 +28,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=K4pil-10&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=K4pil-10&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=K4pil-10&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<div align="center">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=K4pil-10&color=blueviolet&style=flat)
-
-⭐ **Thanks for visiting my profile!** ⭐
-
-</div>
