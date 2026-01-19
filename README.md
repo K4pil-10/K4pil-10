@@ -4,7 +4,7 @@
 <h3 align="center">Hi 👋, I'm <b>KAPIL</b></h3>
 
 <h3>
-🎯 A passionate student learning programming and web development. I enjoy understanding how code works and creating small projects with HTML, CSS, and JavaScript. Constantly learning and improving my skills every day!
+🎯 A passionate student learning programming and web development. I enjoy understanding how code works and creating small projects with HTML, CSS, and JavaScript. Constantly learning and improving my skills!
 </h3>
 
 
