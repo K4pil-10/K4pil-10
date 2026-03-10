@@ -1,10 +1,10 @@
-<h1 align="center">💫 About Me:</h1>
+<h1 align="center">About Me:</h1>
 
 <h2 align="center">15 years old | Grade 9 Student | Passionate Coder 👨‍💻</h2>
 <h3 align="center">Hi 👋, I'm <b>KAPIL</b></h3>
 
 <h3>
-🎯 A passionate student learning programming and web development. I enjoy understanding how code works and creating small projects with HTML, CSS, and JavaScript. Constantly learning and improving my skills!
+ A passionate student learning programming and web development. I enjoy understanding how code works and creating small projects with HTML, CSS, and JavaScript. Constantly learning and improving my skills!
 </h3>
 
 
